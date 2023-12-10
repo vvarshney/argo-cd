@@ -1,5 +1,6 @@
-# Python file (app.py)
 from flask import Flask
+from urllib.parse import quote  # Import quote from urllib.parse
+
 app = Flask(__name__)
 
 @app.route('/')
@@ -15,3 +16,6 @@ def hello_world():
 </body>
 </html>
 '''
+
+# Rest of your Flask app code...
+
