@@ -9,7 +9,7 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>Welcome to the Biomerieux sysops project.</h1> <br>
+<h1>Welcome To Biomerieux SysOps.</h1> <br>
 <br>
 <img src="https://github.com/kamnigs1993/argo-cd/blob/main/itsworking.jpeg?raw=true">
 </center>
