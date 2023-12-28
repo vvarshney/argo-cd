@@ -9,7 +9,7 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>welcome to kubernetes world.</h1> <br>
+<h1>welcome to kubernetes.</h1> <br>
 <br>
 <img src="https://github.com/kamnigs1993/argo-cd/blob/main/itsworking.jpeg?raw=true">
 </center>
