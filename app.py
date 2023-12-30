@@ -7,11 +7,11 @@ app = Flask(__name__)
 def hello_world():
     return '''
 <html>
-<bodhi<h1>
+<body>
 <center>
-<h1>welcome to kubernetes.</h1> <br>
+<h1>welcome kubernetes.</h1> <br>
 <br>
-<img src="https://github.com/kamnigs1993/argo-cd/blob/main/itsworking.jpeg?raw=true">
+<img src="https://github.com/vvarshney/argo-cd/blob/main/itsworking.jpeg?raw=true">
 </center>
 </body>
 </html>
