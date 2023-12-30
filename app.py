@@ -7,7 +7,7 @@ app = Flask(__name__)
 def hello_world():
     return '''
 <html>
-<body>
+<bodhi<h1>
 <center>
 <h1>welcome to kubernetes.</h1> <br>
 <br>
